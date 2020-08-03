@@ -24,7 +24,7 @@ If you prefer to avoid git, you can download the files instead.
 
 ## Git Clone
 
-1. `git lfs install` and `git clone --recurse-submodules git@github.com:LEGO-compatible-gadgets/PELA-robot-hand.git`
+1. `git lfs install` and `git clone --recurse-submodules git@github.com:paulirotta/PELA-robot-hand.git`
 1. `cd PELA-robot-hand\PELA-parameteric-blocks` and then `git checkout master`
 1. **[Calibrate](http://pelablocks.org/#calibrate)** the models to your printer/filament/slicer/preferences
 1. When PELA Blocks changes, [backup your calibration files](#calibration-file-backup) if needed, then either `git submodule update --remote` or cd into the submodule and `git reset --hard origin/master` and `git pull`

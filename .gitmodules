@@ -1,0 +1,3 @@
+[submodule "PELA-blocks"]
+	path = PELA-blocks
+	url = git@github.com:3D-printable-lego-technic/PELA-blocks.git

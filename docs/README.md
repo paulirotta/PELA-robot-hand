@@ -7,9 +7,9 @@
 
 ## Models
 
-[![PELA Robot Hand](PELA-robot-hand.png)](https://github.com/LEGO-Prototypes/PELA-robot-hand/blob/master/PELA-robot-hand.stl)
+[![PELA Robot Hand](PELA-robot-hand.png)](https://github.com/paulirotta/PELA-robot-hand/blob/master/PELA-robot-hand.stl)
 
-[3D PELA Robot Hand](https://github.com/LEGO-Prototypes/PELA-robot-hand/blob/master/PELA-robot-hand.stl)
+[3D PELA Robot Hand](https://github.com/paulirotta/PELA-robot-hand/blob/master/PELA-robot-hand.stl)
 
 Fingers are attached to the palm by Technics connectors. Replicable, flexible skin with PELA connectors on the inside surface and touch sensitivity on the outside will be added (not shown).
 
@@ -18,8 +18,8 @@ Fingers are attached to the palm by Technics connectors. Replicable, flexible sk
 
 If you prefer to avoid git, you can download the files instead.
 
-1. Download and unzip **[PELA Robot Hand](https://github.com/LEGO-Prototypes/PELA-robot-hand/archive/master.zip)**
-1. Download and unzip **[PELA Blocks](https://github.com/LEGO-Prototypes/PELA-blocks/archive/master.zip)** as a subdirectory (`PELA-robot-hand\PELA-blocks`)
+1. Download and unzip **[PELA Robot Hand](https://github.com/paulirotta/PELA-robot-hand/archive/master.zip)**
+1. Download and unzip **[PELA Blocks](https://github.com/paulirotta/PELA-blocks/archive/master.zip)** as a subdirectory (`PELA-robot-hand\PELA-blocks`)
 1. **[Calibrate](http://pelablocks.org/#calibrate)** the models to your printer/filament/slicer/preferences
 
 ## Git Clone
@@ -71,7 +71,7 @@ The software needed is free and open source, [OpenSCAD](http://www.openscad.org/
 
 ## Contact
 
-Collaboration and pull requests are welcome: [Git Project](https://github.com/LEGO-Prototypes/PELA-robot-hand)
+Collaboration and pull requests are welcome: [Git Project](https://github.com/paulirotta/PELA-robot-hand)
 
 paul.houghton@futurice.com ( **[Blog](https://medium.com/@paulhoughton)** - **[Twitter](https://twitter.com/mobile_rat)** )
 

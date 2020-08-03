@@ -4,7 +4,7 @@
 # Generate a set of objects calibrated by changes to PELA-print-parameters.scad
 # See http://robothand.PELAblocks.org for more information
 #
-# Part of https://github.com/LEGO-prototypes/PELA-robot-hand
+# Part of https://github.com/paulirotta/PELA-robot-hand
 #
 # To use:
 # 1. Install and add OpenSCAD and Meshlab to your path

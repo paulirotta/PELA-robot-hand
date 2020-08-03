@@ -8,7 +8,7 @@
 # It is a hack-style CI CAD server. Place the file 'start.txt' in the network drive to trigger a build. On the CI
 # computer, trigger the build to lanuch this script with TheFolderSpy application. Output appears in the log.
 # 
-# Part of https://github.com/LEGO-Prototypes/PELA-robot-hand
+# Part of https://github.com/paulirotta/PELA-robot-hand
 
 Function FormatElapsedTime($ts) {
     $elapsedTime = ""
